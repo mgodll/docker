@@ -1,0 +1,2 @@
+# docker
+pruebas_registry
